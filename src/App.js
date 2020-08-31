@@ -9,7 +9,6 @@ import {
   Education,
   LanguageAbility,
   PersonalInterests,
-  Footer
 } from 'components'
 
 function App() {
