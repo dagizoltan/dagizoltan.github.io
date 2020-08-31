@@ -1,6 +1,6 @@
 import React from 'react';
 import ProviderGroup from 'ProviderGroup'
-import { Box } from '@material-ui/core'
+
 import {
   Header,
   Router,
@@ -11,8 +11,6 @@ import {
   PersonalInterests,
   Footer
 } from 'components'
-
-import { Typography } from '@material-ui/core'
 
 function App() {
   return (
